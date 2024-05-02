@@ -6,7 +6,7 @@ This script parses the available metadata to create a single copy for research p
 ## Requirements
 
 
-Before you run it, open the script and set the `DEFAULT_OUPUT` variable to your preferred path.
+Before you run it, open the script and set the `DEFAULT_OUTPUT` variable to your preferred path.
 
 The script is compatible with items marked `Stream Only`.
 
