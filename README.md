@@ -5,7 +5,6 @@ This script parses the available metadata to create a single copy for research p
 
 ## Requirements
 
-
 Before you run it, open the script and set the `DEFAULT_OUTPUT` variable to your preferred path.
 
 The script is compatible with items marked `Stream Only`.
@@ -31,5 +30,5 @@ $ adl.sh https://archive.org/details/KTVU_20111013_050000_Ten_OClock_News
 
 ## Known issue
 
-Depending on the video codec and the means of playback, the video may show a visual abberation.
+Depending on the video codec and the means of playback, the video may show a visual aberration.
 This might be fixed by adjusting the `ffmpeg` options, or by encoding the clips before they're combined.
