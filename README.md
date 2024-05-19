@@ -5,7 +5,7 @@ This script parses the available metadata to create a single copy for research p
 
 ## Requirements
 
-Before you run it, open the script and set the `DEFAULT_OUTPUT` variable to your preferred path.
+Before you run it, open the script and set the `DEFAULT_OUTPUT` variable to your preferred path. Alternatively, you can provide a destination at the command line. 
 
 The script is compatible with items marked `Stream Only`.
 
@@ -25,7 +25,7 @@ To run the script, just pass the fully qualified URL.
 For example:
 
 ```
-$ adl.sh https://archive.org/details/KTVU_20111013_050000_Ten_OClock_News
+adl https://archive.org/details/KTVU_20111013_050000_Ten_OClock_News
 ```
 
 ## Known issue
