@@ -12,8 +12,9 @@ The script is compatible with items marked `Stream Only`.
 Install the following dependencies:
 
 * ffmpeg
+* libssl
 * wget
-* xidel
+* [xidel](https://www.videlibri.de/xidel.html)
 
 ## Installation
 
