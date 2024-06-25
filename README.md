@@ -23,10 +23,16 @@ Clone the repo and make the script executable (like `chmod +x`).
 ## Run the script
 
 To run the script, just pass the fully qualified URL.
-For example:
+For example, if you have set a default output destination:
 
 ```
 adl https://archive.org/details/KTVU_20111013_050000_Ten_OClock_News
+```
+
+To manually specify the output destination:
+
+```
+adl https://archive.org/details/KTVU_20111013_050000_Ten_OClock_News /OUTPUT_DIRECTORY/
 ```
 
 ## Known issue
